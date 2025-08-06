@@ -1,1 +1,10 @@
-<h1>Hello Guys</h1>
+<h1>Hello</h1>
+🔹 git pull – Fetch and merge changes from a remote repository
+🔹 git push – Send your commits to GitHub
+🔹 git merge – Combine branches effectively
+🔹 git revert – Undo changes without deleting history
+🔹 git forking – Contribute to open-source projects
+🔹 git log --oneline – View commit history in a simple format
+🔹 git status – Check the current state of your repository
+🔹 git checkout – Switch between branches
+🔹 git branch – Create, delete, or list the branches
